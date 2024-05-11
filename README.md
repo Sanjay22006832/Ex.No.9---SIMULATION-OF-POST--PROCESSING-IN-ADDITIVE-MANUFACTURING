@@ -1,4 +1,4 @@
-# Ex.No.  - SIMULATION OF POST PROCESSING IN ADDITIVE MANUFACTURING
+# Ex.No.6.2  - SIMULATION OF POST PROCESSING IN ADDITIVE MANUFACTURING
 
 ### DATE: 
 
@@ -46,9 +46,10 @@
 ![123_2](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/2801d001-e6cd-4b6c-9d5f-712067d3bc3c)
 
 ## Output:
+![image](https://github.com/Sanjay22006832/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/119830477/4f0c9357-deba-497b-bc27-5c506ce2bf32)
 
-### Name:
-### Register Number:
+### Name:M Sanjay
+### Register Number: 212222240090
 
 ## Result: 
 ### Thus the simulation on the Postprocessing in additive manufacturing is completed.
